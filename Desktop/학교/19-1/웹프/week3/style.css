@@ -1,0 +1,15 @@
+a#fb{
+    width:300px;
+    height:300px;
+    background:url("../실습/KakaoTalk_20190316_180504051.jpg") no-repeat;
+    display:block;
+    background-position-x:-250px;
+    background-position-y:-500px;
+}
+
+a#fb:hover{
+    width:700px;
+    height:900px;
+    background:url("../실습/KakaoTalk_20190316_180504051.jpg");
+    display:block;
+}
